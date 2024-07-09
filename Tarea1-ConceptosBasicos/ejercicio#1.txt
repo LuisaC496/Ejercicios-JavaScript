@@ -1,0 +1,19 @@
+Indicar si cada una de las expresiones es verdadera o falsa.
+A=5, B=3, C=-12
+
+a) A > 3                        R//. 5 > 3 = VERDADERO
+b) A > C                        R//. 5 > -12 = VERDADERO     
+c) A < C                        R//. 5 < -12 = FALSO
+d) B < C                        R//. 3 < -12 = FALSO
+e) B != C                       R//. 3 != -12 = VERDADERO    
+f) A == 3                       R//. 5 == 3 = FALSO                      
+g) A * B == 15                  R//. 5 * 3 == 15 = VERDADERO
+h) A * B == -30                 R//. 5 * 3 == -30 = FALSO
+i) C / B < A                    R//. -12 / 3 es igual a -4 < 5 = VERDADERO
+j) C / B == -10                 R//. -12 / 3 es igual a -4 == -10  = FALSO
+k) C / B == -4                  R//. -12 / 3  es igual a -4 == -4 = VERDADERO
+l) A + B + C == 5               R//. 5 + 3 + (-12) es igual a -4 == 5 = FALSO
+m) (A+B == 8) && (A-B == 2)     R//. (5+3 == 8) && (5-3 == 2) = VERDADERO
+n) (A+B == 8) || (A-B == 6)     R//. (5+3 == 8) || (5-3 == 6) = VERDADERO
+o) A > 3 && B > 3 && C < 3      R//. 5 > 3 && 3 > 3 && -12 < 3 = FALSO
+p) A > 3 && B >= 3 && C < -3    R//. 5 > 3 && 3 >= 3 && -12 < -3 = FALSO
